@@ -6,4 +6,4 @@ A Single Client and Single Server chat application developed by a creating a Ser
 
 A multi-threaded client and server chat room like applications where multiple clients can connect to server and chat with each other this is done with the use of threads and the threads are also syncronized so that there should not be any deadlock.
 
-We can connect any number of users my modifying the maxClientsCount to our required numberof users.
+We can connect any number of users by modifying the maxClientsCount variable as per our requirements.
